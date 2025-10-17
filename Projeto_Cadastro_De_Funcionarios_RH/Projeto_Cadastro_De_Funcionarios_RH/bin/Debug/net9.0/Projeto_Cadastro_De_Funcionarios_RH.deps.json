@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Projeto_Cadastro_De_Funcionarios_RH/1.0.0": {
+        "runtime": {
+          "Projeto_Cadastro_De_Funcionarios_RH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto_Cadastro_De_Funcionarios_RH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
